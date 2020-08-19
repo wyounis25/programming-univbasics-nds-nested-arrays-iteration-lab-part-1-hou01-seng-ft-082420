@@ -12,5 +12,3 @@
     row_index += 1
   end
 end
-
-end
